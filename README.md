@@ -37,7 +37,7 @@
 
 ![screenshot](./IMG/404ERROR.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
 
 - This was a simple one challenge 
 - But i have learn to play with flex 
@@ -47,7 +47,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 
 
-- [HTML]https://www.w3schools.com/html/)
+- [HTML](https://www.w3schools.com/html/)
+
 - [CSS3](https://www.w3schools.com/css/)
 
 ## Features
