@@ -37,7 +37,7 @@
 
 - This was a simple one challenge 
 - But i have learn to play with flex 
-- Because i have a huge skill with grid
+- Because i have am huge fan of grid display
 
 ### Built With
 
